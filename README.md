@@ -30,7 +30,7 @@ This project implements a computer vision model to automatically detect and clas
 | Matplotlib | Data Visualization |
 | Seaborn | Statistical Visualization |
 | Scikit-learn | Model Evaluation |
-| Google Colab / Jupyter Notebook | Development Environment |
+| Google Colab | Development Environment |
 
 ---
 
